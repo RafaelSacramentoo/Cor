@@ -1,2 +1,2 @@
 # Cor
-Página HTML e CSS usando cor e listas 
+Página HTML e CSS usando cores  e listas  
